@@ -33,3 +33,25 @@
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+
+# Task5
+
+## Get all the users
+![alt text](image-12.png)
+
+## Get User by email
+![alt text](image-13.png)
+
+## Update Details
+![alt text](image-14.png)
+
+## Delete User
+## before
+![alt text](image-12.png)
+
+## Test
+![alt text](image-15.png)
+
+## after
+![alt text](image-16.png)
